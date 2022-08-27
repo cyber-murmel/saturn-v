@@ -11,3 +11,6 @@
 *.sym
 *.lss
 *.o
+
+# nix-build
+/result
